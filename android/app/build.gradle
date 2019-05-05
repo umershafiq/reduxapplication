@@ -102,7 +102,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.firebaseauthrn"
+        applicationId "com.redux5519"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
